@@ -38,4 +38,6 @@ en management, et j'ai appris le métier en entreprise.
 
 ## Me contacter
 
-[LinkedIn](https://linkedin.com/in/ton-profil) · [ilyes.lahmar.dev@gmail.com]
+## Me contacter
+
+[LinkedIn](https://www.linkedin.com/in/ilyesdeveloper) · ilyes.lahmar.dev@gmail.com
