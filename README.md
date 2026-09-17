@@ -1,40 +1,41 @@
-<h1 align="center">Salut, moi c'est <span style="color:#4CAF50">Ilyes</span> 👋</h1>
+<h1 align="center">Ilyes Lahmar</h1>
 <p align="center">
-  Étudiant en <strong>Master Architecture des Systèmes d’Information</strong> à <strong>l'ETNA</strong> | Développeur en alternance chez <strong>Expaceo</strong>
+  Développeur fullstack — Vue.js / .NET<br>
+  Je conçois et j'automatise des applications métier pour les PME.
 </p>
 
 ---
 
-## 🚀 À propos de moi
-Je suis passionné par le **développement web moderne** et l’**architecture des systèmes d’information**.  
-Mon objectif : concevoir des applications **performantes, scalables et sécurisées** qui répondent aux besoins réels des entreprises.  
+## Ce que je fais
 
-En alternance chez **Expaceo**, je combine **exigence académique** et **expérience terrain** sur des projets basés sur l’écosystème Microsoft.
+Après trois ans en alternance dans un cabinet de conseil IT spécialisé
+Microsoft, j'interviens en indépendant sur :
 
----
+- **Applications métier sur mesure** — Vue.js en front, .NET / C# en back
+- **Automatisation de processus** — supprimer les tâches répétitives qui
+  coûtent du temps chaque semaine
+- **Reprise et modernisation d'applications existantes** — sujet de mon
+  mémoire de fin d'études
 
-## 🛠️ Stack technique
-<div align="center">
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-A6A6A6?style=for-the-badge&logo=microsoft&logoColor=white" />
-</div>
+Je travaille au forfait, sur des livrables définis à l'avance.
 
-**Compétences complémentaires :**  
-- Architecture des systèmes d’information  
-- Développement d’API REST et applications web  
-- Sécurité, performance, et maintenabilité  
-- Cloud et écosystème Microsoft  
+## Stack
 
----
+`Vue.js` · `.NET` · `C#` · `SQL Server` · `Git` · `Azure DevOps`
 
-## 💼 Expérience
-**Développeur en alternance – Expaceo**  
-📍 Cabinet de conseil IT, spécialisé dans les technologies Microsoft  
+## Parcours
 
-- Développement d’applications métiers pour des clients variés  
-- Participation à la conception et à l’architecture de systèmes d’information  
-- Collaboration dans des équipes agiles et projets réels à forte valeur ajoutée  
+**Développeur fullstack — Expaceo** · 2023 – 2026
+Cabinet de conseil IT, écosystème Microsoft. Développement d'applications
+métier pour des clients grands comptes et PME, de la conception à la mise
+en production.
 
----
+**Mastère Architecte des Systèmes d'Information** · ETNA, 2026
+Titre RNCP niveau 7 (Bac+5).
+
+Reconversion : j'ai basculé vers le développement après plusieurs années
+en management, et j'ai appris le métier en entreprise.
+
+## Me contacter
+
+[LinkedIn](https://linkedin.com/in/ton-profil) · [ton@email.fr]
