@@ -36,7 +36,6 @@ Titre RNCP niveau 7 (Bac+5).
 Reconversion : j'ai basculé vers le développement après plusieurs années
 en management, et j'ai appris le métier en entreprise.
 
-## Me contacter
 
 ## Me contacter
 
